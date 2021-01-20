@@ -18,6 +18,7 @@ class Section:
 
 
 def parse(string):
+    """Parses a string and converts it to Sections and Points."""
     section = re.compile(":([A-Z]*):(.*?)(?=:[A-Z]*:)",
                          flags=re.DOTALL | re.MULTILINE)
 
@@ -52,6 +53,7 @@ def parse(string):
 
 
 def format(section):
+    """Formats a section to a html string."""
     def format_point(point):
         content = point.content.replace(
                 "\n\n",
@@ -64,7 +66,8 @@ def format(section):
             "\n".join(map(format_point, section.points)))
 
 
-def main(path):
+def format_file(path):
+    """Parses a file and formats it to html."""
     se, en = parse(open(path).read())
 
     sections = open("template.html").read().split("-----")
@@ -82,4 +85,4 @@ if __name__ == "__main__":
         print("Expected a valid file")
         exit(1)
     else:
-        print(main(path))
+        print(format_file(path))
