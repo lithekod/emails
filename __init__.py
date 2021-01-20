@@ -66,11 +66,11 @@ def format(section):
             "\n".join(map(format_point, section.points)))
 
 
-def format_file(path):
+def format_file(path, template):
     """Parses a file and formats it to html."""
     se, en = parse(open(path).read())
 
-    sections = open("template.html").read().split("-----")
+    sections = open(template).read().split("-----")
     content = [*format(se), *format(en), ""]
     result = reduce(lambda x, y: x + y[0] + y[1],
                     zip(sections, content),
@@ -85,4 +85,4 @@ if __name__ == "__main__":
         print("Expected a valid file")
         exit(1)
     else:
-        print(format_file(path))
+        print(format_file(path, "template.html"))
