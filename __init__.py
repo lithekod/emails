@@ -62,8 +62,12 @@ def format(section):
         out += f"<p class='point-section'>{content}</p>"
         return out
 
-    return (f"<p class='intro'>{section.intro}</p>",
-            "\n".join(map(format_point, section.points)))
+    if len(section.intro) > 0:
+        intro = f"<p class='intro'>{section.intro}</p>"
+    else:
+        intro = ""
+
+    return (intro, "\n".join(map(format_point, section.points)))
 
 
 def format_file(path, template):
