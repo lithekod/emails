@@ -37,6 +37,26 @@ tävlingsprogrammering, att hållas. Tävlingen hålls på distans. SCC är ett
 ypperligt tillfälle att vässa ens CV och plocka upp några fler algoritmer.
 Hoppas vi ses där!
 
+:POINT: Spring GameJam - 7-9 maj
+Även folk som inte har byxor är välkomna på detta Jam! Ett distansjam som kommer
+att hållas i <a href="https://discord.gg/KAuYzbmYrh">LiU GameJams-discordserver</a>!
+
+GameJams innebär att man på en helg gör ett spel. Under tidigare jams har spel gjorts
+i välkända spelmotorer så som Unity, Unreal, Excel, Git och verkligheten. Om man är intresserad
+är det ett jättebra tillefälle att bli introducerad till verktyg tekniker och idéer.
+Man behöver absolut inte ha vunnit programmerings-SM för att vara med, alla har
+något att bidra med!
+
+Kom ensam eller dra med en kompis, det blir kul!
+
+:POINT: Något roligt namn
+Efter många års GameJam-mande (ja, det är ett ord) kan ett nytt sorts
+event skapas! LiTHekod bjuder in till === ROLIGT NAMN === där obskyra
+gamejam spel tävlas i, poäng ska samlas, motståndare krossas och skit ska
+snackas.
+
+Kom === DATUM === till === PLATS === så kör vi!
+
 :EN:
 :INTRO:
 === TODO ===
