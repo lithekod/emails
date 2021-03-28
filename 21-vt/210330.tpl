@@ -49,13 +49,13 @@ vunnit programmerings-SM för att vara med, alla har något att bidra med!
 
 Kom ensam eller i skock, det blir kul!
 
-:POINT: Något roligt namn
-Efter många års game jam:ande (ja, det är så det heter) kan ett nytt sorts
-event skapas! LiU Game Jam och LiTHe kod bjuder in till === ROLIGT NAMN === där obskyra
-game jam-spel tävlas i. Poäng ska samlas, motståndare ska krossas och skit ska
-snackas.
+:POINT: Syltprovning
+Efter många års game jam:ande (ja, det är så det heter) är det dags för ett nytt sorts
+event! LiU Game Jam och LiTHe kod bjuder in alla till syltprovning där
+vi kommer tävla i obskyra game jam-spel. Poäng ska samlas,
+motståndare ska krossas och skit ska snackas.
 
-Kom 20/4 till === PLATS === så kör vi!
+Kom 20/4 17:15 till <a href="https://discord.gg/KAuYzbmYrh">LiU Game Jams discordserver</a> så kör vi!
 
 :EN:
 :INTRO:
