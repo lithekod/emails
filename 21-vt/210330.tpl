@@ -60,34 +60,32 @@ Kom 20/4 17:15 till <a href="https://discord.gg/KAuYzbmYrh">LiU Game Jams discor
 
 :EN:
 :INTRO:
-Now when the exams (hopefully) are over and the exam-angst lost its grip,
-it's ofcourse time for more events with LiTHe kod! This spring brings both
-gamejams and change that we want everyone to be a part of!
+Now when the exams (hopefully) are over and the exam angst has lost its grip,
+it is of course time for more events with LiTHe kod! This spring brings both
+game jams and changes that we want everyone to be a part of!
 
 :POINT: The LiTHe kod board 21/22
-Like many other organizations, LiTHe kod has trubble finding a board for 21/22.
-If you are intrested, take 30 seconds to fill out this form:
-<a href="https://forms.gle/kSiz6EsvP6dteDQ99">formulär uppe för intresseanmälan</a>.
+Like many other organizations, LiTHe kod has had trouble finding a board for 21/22.
+If you are intrested, take 30 seconds to fill out <a href="https://forms.gle/kSiz6EsvP6dteDQ99">our interest form</a>.
 
-It's great to have on your CV, and is a great possibility to learn and grow as a person.
+It's great to have on your CV and a perfect opportunity to learn and grow as a person.
 
-:POINT: Minecraft Triatlon
-A year can't end without fireworks! Unfortunately vi can't shoot them in person,
+:POINT: Minecraft Triathlon
+The term can't end without fireworks! Unfortunately we can't shoot them in person,
 but Minecraft doesn't have COVID restrictions (yet).
 
-LiTHe kod invites you to a collection of Minecraft competitions:
+LiTHe kod would love to invite you to a collection of Minecraft competitions with
 a chance to win prices and hang out!
 
-The competitions will be held the 27th of April at 17 o'clock
-in <a href="https://discord.gg/su2nSneFyZ">LiTHe kods discordserver</a> and
-<em>everyone</em> is warmly welcome!
+The competitions will be held the 27th of April at 5 PM
+in <a href="https://discord.gg/su2nSneFyZ">LiTHe kod's Discord server</a> and
+<em>everyone</em> is welcome!
 
 === FACEBOOK LÄNK ===
 
 :POINT: Swedish Coding Cup
-On the 10th of April LiU will be hosting the first step in the Swedish Coding Cup (SCC),
-the Swedish championship in competitive programming! It's the perfect opportunity
-to sharpen your CV so sharp it will fall out of the envelop.
+On the 10th of April LiU will be hosting a qualification for Swedish Coding Cup (SCC),
+the Swedish championship in competitive programming! Make your CV so sharp it will fall out of the envelope.
 
 The competition will be held online and to participate email
 <a href="mail://vordf@lithekod.se">vordf@lithekod.se</a>.
@@ -95,13 +93,13 @@ The competition will be held online and to participate email
 Hope to see you there!
 
 :POINT: Spring Game Jam - 7-9 maj
-Pants are no requirement for this jam! A distance-jam that will
-be held in <a href="https://discord.gg/KAuYzbmYrh">LiU Game Jams discordserver</a>!
+Pants are no requirement for this jam! A distance jam that will
+be held in <a href="https://discord.gg/KAuYzbmYrh">LiU Game Jam's Discord server</a>!
 
 A game jam is an event where you make a game over a weekend. For previous jams
-games have been done in well known engines like Unity, Unreal, Godot, Excel, Git and
+games have been made in well known engines like Unity, Unreal, Godot, Excel, Git and
 reality. If you're the least bit interested this is an opportune moment
-to get introduced to tools, techniques and ideas. There is absolutely no
+to get introduced to new tools, techniques and ideas. There is absolutely no
 requirement to have won a programming championship to be able to participate,
 everybody has something to contribute with!
 
@@ -109,8 +107,8 @@ Come alone or with a group! It's gonna be great!
 
 :POINT: Syltprovning
 After many years of intense jamming, it's time for a new kind of fun!
-LiU Game Jams and LiTHe kod are inviting everybody to compete in
-obscure and strange game jame-games! Points to collected,
+LiU Game Jam and LiTHe kod are inviting everybody to compete in
+obscure and strange game jam games! There are points to collect,
 opponents to crush and fun to be had.
 
-Come 20/4 17:15 to <a href="https://discord.gg/KAuYzbmYrh">LiU Game Jams discordserver</a> and lets go!
+Come 20/4 17:15 to <a href="https://discord.gg/KAuYzbmYrh">LiU Game Jam's Discord server</a> and let's go!
