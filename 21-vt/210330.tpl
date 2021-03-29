@@ -24,7 +24,7 @@ Tävlingen kommer att hållas den 27 april kl 17 i
 <a href="https://discord.gg/su2nSneFyZ">LiTHe kods discordserver</a> och
 <em>alla</em> är hjärtligt välkomna!
 
-=== FACEBOOK LÄNK ===
+<a href="https://www.facebook.com/events/211326034093713?ref=110">Facebook event så vi kan maxa servern!</a>
 
 :POINT: Swedish Coding Cup
 När våren kommer får alla programmerare en speciell känsla i magen -- känslan
@@ -80,7 +80,7 @@ The competitions will be held the 27th of April at 5 PM
 in <a href="https://discord.gg/su2nSneFyZ">LiTHe kod's Discord server</a> and
 <em>everyone</em> is welcome!
 
-=== FACEBOOK LÄNK ===
+<a href="https://www.facebook.com/events/211326034093713?ref=110">Facebook event so we make sure to fill the server!</a>
 
 :POINT: Swedish Coding Cup
 On the 10th of April LiU will be hosting a qualification for Swedish Coding Cup (SCC),
