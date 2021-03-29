@@ -35,7 +35,7 @@ nalkas!
 Den 10 april kommer LiUs deltävling i Swedish Coding Cup (SCC), SM i
 tävlingsprogrammering, att hållas. Tävlingen hålls på distans. SCC är ett
 ypperligt tillfälle att vässa ens CV och lära sig några fler algoritmer.
-För att delta maila <a href="mail://vordf@lithekod.se">vordf@lithekod.se</a>
+<a href="https://codingcup.se/">Anmälan finns på Swedish Coding Cups hemsida.</a>
 Hoppas vi ses där!
 
 :POINT: Spring Game Jam - 7-9 maj
@@ -85,9 +85,7 @@ in <a href="https://discord.gg/su2nSneFyZ">LiTHe kod's Discord server</a> and
 :POINT: Swedish Coding Cup
 On the 10th of April LiU will be hosting a qualification for Swedish Coding Cup (SCC),
 the Swedish championship in competitive programming! Make your CV so sharp it will fall out of the envelope.
-
-The competition will be held online and to participate email
-<a href="mail://vordf@lithekod.se">vordf@lithekod.se</a>.
+The competition will take place online. <a href="https://codingcup.se/">To sign up, visit Swedish Coding Cup's website.</a>
 
 Hope to see you there!
 
