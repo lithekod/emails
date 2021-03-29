@@ -13,7 +13,7 @@ Typiskt bra att sätta på CV:t och ett tillfälle att få vara del av något st
 Om man är intresserad av vad dom rollerna innebär finns <a href="https://lithekod.se/contact/se/">
 mer information på vår hemsida</a>. Anmälan stänger den 1 maj.
 
-:POINT: Minecraft Triatlon
+:POINT: Minecraft Triathlon
 Givetvis kan inte föreningsåret sluta utan fyrverkerier! Tyvärr kan vi
 inte bjuda på fysiska fyrverkerier, men Minecraft har inte COVID-restriktioner (än).
 
