@@ -53,8 +53,7 @@ Kom ensam eller i skock, det blir kul!
 :POINT: Syltprovning
 Efter många års game jam:ande (ja, det är så det heter) är det dags för ett nytt sorts
 event! LiU Game Jam och LiTHe kod bjuder in alla till syltprovning där
-vi kommer tävla i obskyra game jam-spel. Poäng ska samlas,
-motståndare ska krossas och skit ska snackas.
+vi kommer tävla i obskyra game jam-spel. Motståndare ska krossas och skit ska snackas.
 
 Kom 20/4 17:15 till <a href="https://discord.gg/KAuYzbmYrh">LiU Game Jams discordserver</a> så kör vi!
 
