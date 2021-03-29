@@ -108,7 +108,6 @@ Come alone or with a group! It's gonna be great!
 :POINT: Syltprovning
 After many years of intense jamming, it's time for a new kind of fun!
 LiU Game Jam and LiTHe kod are inviting everybody to compete in
-obscure and strange game jam games! There are points to collect,
-opponents to crush and fun to be had.
+obscure and strange game jam games! There are opponents to crush and fun to be had.
 
 Come 20/4 17:15 to <a href="https://discord.gg/KAuYzbmYrh">LiU Game Jam's Discord server</a> and let's go!
