@@ -6,7 +6,7 @@ från oss i styrelsen! Framöver har vi några roliga event på ingång, läs me
 
 :POINT: NCPC 2021
 
-https://lithekod.se/ncpc/se/
+<a href="https://lithekod.se/ncpc/se/">https://lithekod.se/ncpc/se/</a>
 
 Snart är det dags för NCPC, nordiska mästerskapen i tävlingsprogrammering! Lag
 om upp till tre personer löser programmeringsproblem och tävlar mot andra
@@ -34,4 +34,5 @@ Hacktoberfest! Presentationen kommer gå i A1 tisdag 4 oktober klockan 17:15.
 Hacktoberfest är ett slags evenemang som går under hela oktober.  Om du gör tre
 pull requests till (medverkande) projekt på Github får du en t-shirt och kanske
 en ingång till att börja engagerade dig i open source. Läs mer på
-Hacktoberfest-hemsidan: https://hacktoberfest.digitalocean.com/
+Hacktoberfest-hemsidan: <a href="https://hacktoberfest.digitalocean.com/">
+https://hacktoberfest.digitalocean.com/</a>
