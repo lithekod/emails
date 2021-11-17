@@ -29,7 +29,7 @@ hittas på vår <a href="https://lithekod.se/aoc/se/">hemsida</a>!
 
 :POINT: Game Jam
 Universitetsårets första game jam är snart här! Så är du intresserad
-av att bygga spel tillsammans med likasinade under en helg är du
+av att bygga spel tillsammans med likasinnade under en helg är du
 välkommen! Denna gången är vi PÅ PLATS; samt är denna platsen helt ny
 för game jams som är organiserade av oss!
 
@@ -112,7 +112,7 @@ the 28th November.
 
 More information can be found on the our <a
 href="https://lithekod.se/gamejam/en/">website</a> or on the
-accompyaning <a
+accompanying <a
 href="https://www.facebook.com/events/592287468735232">facebook
 event</a>!
 
