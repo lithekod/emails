@@ -1,4 +1,4 @@
-XS:SE:
+:SE:
 :INTRO:
 Vintern står för dörren! Varför inte lysa upp tillvaron med LiTHe
 kod-evenemang???
