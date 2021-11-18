@@ -11,7 +11,7 @@ kvällen så kommer det även hållas en liten tävling, så ta med dig en
 dator och var redo på att ha kul!
 
 Julstugan är begränsad till 50 platser, registrera dig i formuläret
-som kan hittas på denna länk <a href="http://lithekod.se/opera/"></a>!
+som kan hittas på denna <a href="http://lithekod.se/opera/">länk</a>!
 Mer information gällande datum och plats kommer inom de närmaste
 dagarna!
 
@@ -84,7 +84,7 @@ will talk about their company and provide food and drinks. There will
 also be a small competition so bringing your laptop may be a good
 idea.
 
-Please register at <a href="http://lithekod.se/opera/"></a>, the event
+Please register <a href="http://lithekod.se/opera/">here</a>, the event
 is limited to 50 people. Information about the date and location will be
 provided in the coming days!
 
