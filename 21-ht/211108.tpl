@@ -10,10 +10,14 @@ under kvällen och bjuder givetvis på både julmat och dryck. Under
 kvällen så kommer det även hållas en liten tävling, så ta med dig en
 dator och var redo på att ha kul!
 
-Julstugan är begränsad till 50 platser, registrera dig i formuläret
-som kan hittas på denna <a href="http://lithekod.se/opera/">länk</a>!
-Mer information gällande datum och plats kommer inom de närmaste
-dagarna!
+
+Julstugan kommer vara på den 13e december från 17:30 till 21:00 på
+campus. Julstugan är begränsad till 50 platser, så registrera dig i
+formuläret som kan hittas på denna <a
+href="http://lithekod.se/opera/">länk</a>! Mer Information kan hittas
+på <a href="https://www.facebook.com/events/205246728446258">facebook
+eventet</a>.
+
 
 
 :POINT: Advent of Code
@@ -84,9 +88,12 @@ will talk about their company and provide food and drinks. There will
 also be a small competition so bringing your laptop may be a good
 idea.
 
-Please register <a href="http://lithekod.se/opera/">here</a>, the event
-is limited to 50 people. Information about the date and location will be
-provided in the coming days!
+We will be hosting the event on the 13th of december from 17:30 to
+21:00 on campus.  Please register <a
+href="http://lithekod.se/opera/">here</a>, the event is limited to 50
+people. For more information check the <a
+href="https://www.facebook.com/events/205246728446258">facebook
+event</a>.
 
 
 :POINT: Advent of Code
