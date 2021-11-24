@@ -11,7 +11,7 @@ kvällen så kommer det även hållas en liten tävling, så ta med dig en
 dator och var redo på att ha kul!
 
 
-Julstugan kommer vara på den 13e december från 17:30 till 21:00 på
+Julstugan kommer vara den 13e december från 17:30 till 21:00 på
 campus. Julstugan är begränsad till 50 platser, så registrera dig i
 formuläret som kan hittas på denna <a
 href="http://lithekod.se/opera/">länk</a>! Mer Information kan hittas
@@ -31,7 +31,7 @@ Mer fullständig information om priser och donationer kommer kunna
 hittas på vår <a href="https://lithekod.se/aoc/se/">hemsida</a>!
 
 
-:POINT: Game Jam
+:POINT: Fall Game Jam
 Universitetsårets första game jam är snart här! Så är du intresserad
 av att bygga spel tillsammans med likasinnade under en helg är du
 välkommen! Denna gången är vi PÅ PLATS; samt är denna platsen helt ny
@@ -88,7 +88,7 @@ will talk about their company and provide food and drinks. There will
 also be a small competition so bringing your laptop may be a good
 idea.
 
-We will be hosting the event on the 13th of december from 17:30 to
+We will be hosting the event the 13th of december from 17:30 to
 21:00 on campus.  Please register <a
 href="http://lithekod.se/opera/">here</a>, the event is limited to 50
 people. For more information check the <a
@@ -107,7 +107,7 @@ For more information about possible donations and prizes please visit our
 <a href="https://lithekod.se/aoc/se/">webiste</a>!
 
 
-:POINT: Game Jam
+:POINT: Fall Game Jam
 The first game jam of this academical year is soon upon us. So join us
 and build kickass games together during one weekend. This time IN REAL
 LIFE at a new location.
