@@ -171,7 +171,7 @@ We at LITHe kod are arranging an extra “stormöte” on Tuesday February 22
 in the hopes that we together will vote in a new board member. The meeting will start
 at 18:15 in Cafe Java.
 
-<a id="lodol-se">
+<a id="lodol-en">
 :POINT: 3 March: Lödöl
 </a>
 
