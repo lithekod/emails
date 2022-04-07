@@ -45,18 +45,18 @@ speltestning.
 Here's a new membership email from LiTHe kod! Apply to the board, go to game
 jams and partake in the spring meeting. Read more about these here.
 
-:POINT: Apply for the board 22/23
+:POINT: Apply to the board 22/23
 
-Are you interested in planning Game Jams, hosting events, exchanging ideas 
-about programming and other computer related topics, or are you just out for 
-the exquisite 'fika'? POG! LiTHe kod enjoin you to apply for the board of LiTHe kod 22/23.
+Are you interested in planning game jams, hosting events, exchanging ideas 
+about programming and other computer-related topics, or are you just out for 
+the exquisite 'fika'? POG! LiTHe kod enjoin you to apply to the board of LiTHe kod 22/23.
 
 The application form will close the 24th of April, so don't miss your chance to apply. 
 We will contact you with further details about the interview via mail. 
 During the interview we will discuss which of the positions that you applied for that will suit you the best,
-and more about the responsibilities that goes with that position. 
+and more about the responsibilities of that position. 
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfj1J38Wi69Cwv_FJxUWZrQOoeeMfHPUl-5_LT25fdF6wwNKQ/viewform">Apply form</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfj1J38Wi69Cwv_FJxUWZrQOoeeMfHPUl-5_LT25fdF6wwNKQ/viewform">Apply tom</a>
 
 :POINT: Spring meeting
 
@@ -64,14 +64,14 @@ The spring meeting will take place May 10th in Ada Lovelace. A preliminary and
 later finalized agenda will be published on <a
 href="https://lithekod.se/mettings">our website</a>.
 
-:POINT: Spring Game Jam 2022: May 20-22
+:POINT: Spring game Jam 2022: May 20-22
 
 The last jam before summer will take place just before the exam period! Just
 like this fall we'll be at Spektrum in Ebbepark (Fridtunagatan 24, Linköping).
 
-A game jam is an event where you make a game over a weekend. For previous jams
+A game jam is an event where you make a game over a weekend. For previous jams,
 games have been made in well known engines like Unity, Unreal, Godot, Excel, Git and
-reality. If you're the least bit interested this is an opportune moment
+reality. If you're the least bit interested then this is an opportune moment
 to get introduced to new tools, techniques and ideas. There is absolutely no
 requirement to have won a programming championship to be able to participate,
 everybody has something to contribute with!
