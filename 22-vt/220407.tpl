@@ -46,7 +46,19 @@ This is an intro text all about brödtext brödtext brödtext brödtext
 brödtext brödtext brödtext brödtext
 
 
-:POINT: A captivating title
+:POINT: Apply for the board 22/23
+Are you interested in planning Game Jams, hosting events, exchanging ideas 
+about programming and other computer related topics, or are you just out for 
+the exquisite 'fika'? POG! LiTHe kod enjoin you to apply for the board of LiTHe kod 22/23.
+
+The application form will close the 24th of April, so don't miss your chance to apply. 
+We will contact you with further details about the interview via mail. 
+During the interview we will discuss which of the positions that you applied for that will suit you the best,
+and more about the responsibilities that goes with that position. 
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfj1J38Wi69Cwv_FJxUWZrQOoeeMfHPUl-5_LT25fdF6wwNKQ/viewform">Intressanmälan</a>
+
+
 Brödtext brödtext brödtext brödtext brödtext brödtext brödtext
 brödtext brödtext brödtext brödtext
 
