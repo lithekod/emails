@@ -56,7 +56,7 @@ We will contact you with further details about the interview via mail.
 During the interview we will discuss which of the positions that you applied for that will suit you the best,
 and more about the responsibilities of that position. 
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfj1J38Wi69Cwv_FJxUWZrQOoeeMfHPUl-5_LT25fdF6wwNKQ/viewform">Apply tom</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfj1J38Wi69Cwv_FJxUWZrQOoeeMfHPUl-5_LT25fdF6wwNKQ/viewform">Apply form</a>
 
 :POINT: Spring meeting
 
