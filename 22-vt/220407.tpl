@@ -1,5 +1,4 @@
 :SE:
-
 :INTRO:
 
 Här kommer ett nytt medlemsutskick från LiTHe kod! Sök styrelsen, gå på game
@@ -18,7 +17,7 @@ resterande sökande.
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfj1J38Wi69Cwv_FJxUWZrQOoeeMfHPUl-5_LT25fdF6wwNKQ/viewform">Intressanmälan</a>
 
-:Stormöte:
+:POINT: Stormöte
 
 Vårmötet planeras hållas tisdag 10 maj i Ada Lovelace. En preliminär och senare
 fastställd föredragningslista kommer publiceras på <a
@@ -42,11 +41,12 @@ speltestning.
 
 :EN:
 :INTRO:
-This is an intro text all about brödtext brödtext brödtext brödtext
-brödtext brödtext brödtext brödtext
 
+Here's a new membership email from LiTHe kod! Apply to the board, go to game
+jams and partake in the spring meeting. Read more about these here.
 
 :POINT: Apply for the board 22/23
+
 Are you interested in planning Game Jams, hosting events, exchanging ideas 
 about programming and other computer related topics, or are you just out for 
 the exquisite 'fika'? POG! LiTHe kod enjoin you to apply for the board of LiTHe kod 22/23.
@@ -56,16 +56,25 @@ We will contact you with further details about the interview via mail.
 During the interview we will discuss which of the positions that you applied for that will suit you the best,
 and more about the responsibilities that goes with that position. 
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfj1J38Wi69Cwv_FJxUWZrQOoeeMfHPUl-5_LT25fdF6wwNKQ/viewform">Intressanmälan</a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfj1J38Wi69Cwv_FJxUWZrQOoeeMfHPUl-5_LT25fdF6wwNKQ/viewform">Apply form</a>
 
+:POINT: Spring meeting
 
-Brödtext brödtext brödtext brödtext brödtext brödtext brödtext
-brödtext brödtext brödtext brödtext
+The spring meeting will take place May 10th in Ada Lovelace. A preliminary and
+later finalized agenda will be published on <a
+href="https://lithekod.se/mettings">our website</a>.
 
-Brödtext brödtext brödtext brödtext brödtext brödtext brödtext
-brödtext brödtext brödtext brödtext
+:POINT: Spring Game Jam 2022: May 20-22
 
+The last jam before summer will take place just before the exam period! Just
+like this fall we'll be at Spektrum in Ebbepark (Fridtunagatan 24, Linköping).
 
-:POINT: A captivating title
-Brödtext brödtext brödtext brödtext brödtext brödtext brödtext
-brödtext brödtext brödtext brödtext
+A game jam is an event where you make a game over a weekend. For previous jams
+games have been made in well known engines like Unity, Unreal, Godot, Excel, Git and
+reality. If you're the least bit interested this is an opportune moment
+to get introduced to new tools, techniques and ideas. There is absolutely no
+requirement to have won a programming championship to be able to participate,
+everybody has something to contribute with!
+
+We'll start at 6PM on the Friday with theme generation and end at 5PM the
+Sunday with a final presentation of the created games followed by game testing.
