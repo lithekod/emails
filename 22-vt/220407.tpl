@@ -10,7 +10,7 @@ Gillar du att planera ett eller annat game jam, hålla i event, prata om
 programmering samt andra datorrelaterade ämnen, eller bara att äta gratis fika?
 POG! Vi på LiTHe kod vill att du söker till vårt styre 22/23!
 
-Ansökan stänger den 24 april så missa inte att anmäla dig. Vi kommer kontakta
+Ansökan stänger den 1 maj så missa inte att anmäla dig. Vi kommer kontakta
 er via mail angående intervjutider. Där kommer vi prata om vilken post som
 passar dig bäst, från de som du har valt, och hur det skulle passa med
 resterande sökande.
@@ -51,7 +51,7 @@ Are you interested in planning game jams, hosting events, exchanging ideas
 about programming and other computer-related topics, or are you just out for 
 the exquisite 'fika'? POG! LiTHe kod enjoin you to apply to the board of LiTHe kod 22/23.
 
-The application form will close the 24th of April, so don't miss your chance to apply. 
+The application form will close the 1st of May, so don't miss your chance to apply. 
 We will contact you with further details about the interview via mail. 
 During the interview we will discuss which of the positions that you applied for that will suit you the best,
 and more about the responsibilities of that position. 
